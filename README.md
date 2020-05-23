@@ -5,7 +5,11 @@ It is based on One Lone Coder's video : Procedural Generation: Programming The U
 
 Except instead of writing it in C++ using his Pixel engine, I wrote it in Python using the Pygame Game Engine.
 
-Obviously, there are alot of syntax changes. The most notable logic change is that I did not use his random Double function, instead I opted to use the Python Random Library's Uniform function.
+Obviously, there are alot of syntax changes. The most notable logic change is that I did not use his random
+Double function, instead I opted to use the Python Random 
+Library's Uniform function. There were also a lot of data 
+structure changes as some of the data structures used in
+his video were not avalible in python.
 
 I also made the resolution a bit bigger.
 
